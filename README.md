@@ -7,7 +7,7 @@
 - 生成Entity文件
 
 ### 如何启动
-直接运行App类的main()方法即可
+使用IDEA 或者 Eclipse导入maven项目，之后直接运行App类的main()方法即可
 
 ### 配置相关介绍
 **1.数据库配置**
